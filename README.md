@@ -108,16 +108,20 @@ docs/
 
 Desktop:
 
+```bash
 cd "focus_todo_computer/focus-todo"
 npm install
 npm run dev
+```
 
 
 Mobile:
 
+```bash
 cd "focus_todo_mobile"
 flutter pub get
 flutter run
+```
 
 
 ---
