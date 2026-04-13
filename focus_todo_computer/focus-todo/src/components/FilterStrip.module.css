@@ -1,0 +1,67 @@
+.strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.65rem 1rem;
+  font-size: 0.8125rem;
+}
+
+.muted {
+  color: var(--text-faint);
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding-bottom: 0.35rem;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 0;
+}
+
+.lab {
+  font-size: 0.6875rem;
+  color: var(--text-muted);
+}
+
+.select {
+  font: inherit;
+  font-size: 0.8125rem;
+  padding: 0.35rem 0.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--border-field);
+  background: var(--surface-input);
+  color: var(--text-primary);
+  min-width: 6.5rem;
+  cursor: pointer;
+  outline: none;
+}
+
+.select:focus {
+  border-color: var(--accent-muted);
+  box-shadow: 0 0 0 2px var(--accent-ring);
+}
+
+.sortSelect {
+  min-width: 10.75rem;
+}
+
+.clear {
+  align-self: flex-end;
+  font: inherit;
+  font-size: 0.75rem;
+  padding: 0.35rem 0.5rem;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.clear:hover {
+  color: var(--text-primary);
+}

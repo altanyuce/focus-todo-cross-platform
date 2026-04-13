@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "Focus Todo"
+  },
+  "brand": {
+    "title": "Focus",
+    "subtitle": "Görevler",
+    "footnote": "Yalnızca bu cihazda - görevlerin bu cihazda kalır."
+  },
+  "sidebar": {
+    "sectionsLabel": "Bölümler"
+  },
+  "sections": {
+    "today": {
+      "label": "Bugün",
+      "navHint": "Şimdi yapılacaklar ve tarihsizler",
+      "caption": "Şimdi ilgilenmen gerekenler - tarihsiz görevler de burada kalır.",
+      "emptyTitle": "Henüz burada bir şey yok",
+      "emptyBody": "Yukarıdan bir görev ekle. Tarihsiz öğeler hızlıca not alabilmen için Bugün'de kalır."
+    },
+    "upcoming": {
+      "label": "Yaklaşan",
+      "navHint": "İleri tarihli",
+      "caption": "Gelecekteki bir bitiş tarihine sahip planlı işler.",
+      "emptyTitle": "Yaklaşan tarih yok",
+      "emptyBody": "Burada görmek için bir göreve ileri tarihli bir bitiş tarihi ekle."
+    },
+    "completed": {
+      "label": "Tamamlanan",
+      "navHint": "Bitmiş görevler",
+      "caption": "Tamamlanan işlerin sakin arşivi.",
+      "emptyTitle": "Tamamlanan görev yok",
+      "emptyBody": "Bitirdiğin işler burada görünür; böylece Bugün görünümü sade kalır."
+    }
+  },
+  "topBar": {
+    "searchLabel": "Görevlerde ara",
+    "searchPlaceholder": "Ara...",
+    "themeGroupLabel": "Tema",
+    "syncAction": "Esitle",
+    "syncing": "Esitleniyor...",
+    "syncSuccess": "Esitleme tamamlandi",
+    "syncError": "Esitleme basarisiz"
+  },
+  "theme": {
+    "light": "Açık",
+    "dark": "Koyu",
+    "system": "Otomatik",
+    "systemDark": "Sistem (koyu kullanılıyor)",
+    "systemLight": "Sistem (açık kullanılıyor)"
+  },
+  "language": {
+    "label": "Dil",
+    "options": {
+      "en": "English",
+      "tr": "Türkçe",
+      "de": "Deutsch",
+      "es": "Español",
+      "it": "Italiano"
+    }
+  },
+  "quickAdd": {
+    "sectionLabel": "Görev ekle",
+    "titleLabel": "Görev başlığı",
+    "titlePlaceholder": "Bir görev ekle - Enter'a bas",
+    "detailsShow": "Detaylar",
+    "detailsHide": "Detayları gizle",
+    "note": "Not",
+    "notePlaceholder": "İsteğe bağlı bağlam",
+    "due": "Bitiş",
+    "priority": "Öncelik",
+    "list": "Liste"
+  },
+  "filters": {
+    "groupLabel": "Filtreler ve sıralama",
+    "heading": "Filtrele",
+    "status": "Durum",
+    "priority": "Öncelik",
+    "list": "Liste",
+    "sort": "Sırala",
+    "clear": "Temizle",
+    "statusOptions": {
+      "all": "Tümü",
+      "active": "Aktif",
+      "done": "Tamamlanan"
+    },
+    "priorityOptions": {
+      "all": "Fark etmez"
+    },
+    "categoryOptions": {
+      "all": "Tüm listeler"
+    },
+    "sortOptions": {
+      "default": "Varsayılan",
+      "due-date-desc": "En yeni bitiş tarihi önce",
+      "due-date-asc": "En eski bitiş tarihi önce",
+      "priority-desc": "Öncelik: Yüksekten düşüğe",
+      "priority-asc": "Öncelik: Düşükten yükseğe",
+      "title-asc": "Alfabetik: A'dan Z'ye",
+      "title-desc": "Alfabetik: Z'den A'ya",
+      "created-desc": "Yeni eklenenler",
+      "created-asc": "En eski eklenenler"
+    }
+  },
+  "common": {
+    "priorities": {
+      "low": "Düşük",
+      "medium": "Orta",
+      "high": "Yüksek"
+    },
+    "categories": {
+      "personal": "Kişisel",
+      "work": "İş",
+      "study": "Çalışma"
+    }
+  },
+  "task": {
+    "markActive": "Aktif olarak işaretle",
+    "markComplete": "Tamamlandı olarak işaretle",
+    "titleLabel": "Başlık",
+    "noteLabel": "Not",
+    "due": "Bitiş",
+    "priority": "Öncelik",
+    "list": "Liste",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "priorityAria": "Öncelik {{priority}}",
+    "noDate": "Tarih yok",
+    "confirmDeleteGroup": "Silmeyi onayla",
+    "confirmDeleteText": "Silinsin mi?",
+    "confirmYes": "Evet",
+    "confirmNo": "Hayır",
+    "edit": "Düzenle",
+    "delete": "Sil"
+  }
+}

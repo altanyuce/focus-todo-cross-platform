@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "Focus Todo"
+  },
+  "brand": {
+    "title": "Focus",
+    "subtitle": "Aufgaben",
+    "footnote": "Nur lokal - deine Aufgaben bleiben auf diesem Gerät."
+  },
+  "sidebar": {
+    "sectionsLabel": "Bereiche"
+  },
+  "sections": {
+    "today": {
+      "label": "Heute",
+      "navHint": "Fällig jetzt und ohne Datum",
+      "caption": "Was jetzt Aufmerksamkeit braucht - Aufgaben ohne Datum bleiben ebenfalls hier.",
+      "emptyTitle": "Hier ist noch nichts",
+      "emptyBody": "Füge oben eine Aufgabe hinzu. Elemente ohne Datum bleiben in Heute, damit du sie schnell erfassen kannst."
+    },
+    "upcoming": {
+      "label": "Demnächst",
+      "navHint": "Für später geplant",
+      "caption": "Geplante Arbeit mit einem zukünftigen Fälligkeitsdatum.",
+      "emptyTitle": "Keine kommenden Termine",
+      "emptyBody": "Gib einer Aufgabe ein zukünftiges Datum, damit sie hier erscheint."
+    },
+    "completed": {
+      "label": "Erledigt",
+      "navHint": "Abgeschlossene Aufgaben",
+      "caption": "Ruhiges Archiv deiner erledigten Arbeit.",
+      "emptyTitle": "Keine erledigten Aufgaben",
+      "emptyBody": "Erledigte Aufgaben erscheinen hier, dezent genug, damit Heute übersichtlich bleibt."
+    }
+  },
+  "topBar": {
+    "searchLabel": "Aufgaben durchsuchen",
+    "searchPlaceholder": "Suchen...",
+    "themeGroupLabel": "Design",
+    "syncAction": "Sync",
+    "syncing": "Synchronisiert...",
+    "syncSuccess": "Sync abgeschlossen",
+    "syncError": "Sync fehlgeschlagen"
+  },
+  "theme": {
+    "light": "Hell",
+    "dark": "Dunkel",
+    "system": "Auto",
+    "systemDark": "System (dunkel aktiv)",
+    "systemLight": "System (hell aktiv)"
+  },
+  "language": {
+    "label": "Sprache",
+    "options": {
+      "en": "English",
+      "tr": "Türkçe",
+      "de": "Deutsch",
+      "es": "Español",
+      "it": "Italiano"
+    }
+  },
+  "quickAdd": {
+    "sectionLabel": "Aufgabe hinzufügen",
+    "titleLabel": "Aufgabentitel",
+    "titlePlaceholder": "Eine Aufgabe hinzufügen - Enter drücken",
+    "detailsShow": "Details",
+    "detailsHide": "Details ausblenden",
+    "note": "Notiz",
+    "notePlaceholder": "Optionaler Kontext",
+    "due": "Fällig",
+    "priority": "Priorität",
+    "list": "Liste"
+  },
+  "filters": {
+    "groupLabel": "Filter und Sortierung",
+    "heading": "Filter",
+    "status": "Status",
+    "priority": "Priorität",
+    "list": "Liste",
+    "sort": "Sortieren",
+    "clear": "Zurücksetzen",
+    "statusOptions": {
+      "all": "Alle",
+      "active": "Aktiv",
+      "done": "Erledigt"
+    },
+    "priorityOptions": {
+      "all": "Beliebig"
+    },
+    "categoryOptions": {
+      "all": "Alle Listen"
+    },
+    "sortOptions": {
+      "default": "Standard",
+      "due-date-desc": "Neuester Termin zuerst",
+      "due-date-asc": "Ältester Termin zuerst",
+      "priority-desc": "Priorität: Hoch nach Niedrig",
+      "priority-asc": "Priorität: Niedrig nach Hoch",
+      "title-asc": "Alphabetisch: A bis Z",
+      "title-desc": "Alphabetisch: Z bis A",
+      "created-desc": "Zuletzt erstellt",
+      "created-asc": "Am ältesten"
+    }
+  },
+  "common": {
+    "priorities": {
+      "low": "Niedrig",
+      "medium": "Mittel",
+      "high": "Hoch"
+    },
+    "categories": {
+      "personal": "Privat",
+      "work": "Arbeit",
+      "study": "Lernen"
+    }
+  },
+  "task": {
+    "markActive": "Als aktiv markieren",
+    "markComplete": "Als erledigt markieren",
+    "titleLabel": "Titel",
+    "noteLabel": "Notiz",
+    "due": "Fällig",
+    "priority": "Priorität",
+    "list": "Liste",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "priorityAria": "Priorität {{priority}}",
+    "noDate": "Kein Datum",
+    "confirmDeleteGroup": "Löschen bestätigen",
+    "confirmDeleteText": "Entfernen?",
+    "confirmYes": "Ja",
+    "confirmNo": "Nein",
+    "edit": "Bearbeiten",
+    "delete": "Löschen"
+  }
+}

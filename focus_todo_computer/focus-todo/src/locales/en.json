@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "Focus Todo"
+  },
+  "brand": {
+    "title": "Focus",
+    "subtitle": "Tasks",
+    "footnote": "Local only - your tasks stay on this device."
+  },
+  "sidebar": {
+    "sectionsLabel": "Sections"
+  },
+  "sections": {
+    "today": {
+      "label": "Today",
+      "navHint": "Due now and undated",
+      "caption": "What needs attention now - undated tasks stay here too.",
+      "emptyTitle": "Nothing here yet",
+      "emptyBody": "Add a task above. Undated items stay in Today so you can capture quickly."
+    },
+    "upcoming": {
+      "label": "Upcoming",
+      "navHint": "Scheduled ahead",
+      "caption": "Scheduled work with a future due date.",
+      "emptyTitle": "No upcoming dates",
+      "emptyBody": "Set a future due date on a task to see it here."
+    },
+    "completed": {
+      "label": "Completed",
+      "navHint": "Finished tasks",
+      "caption": "Quiet archive of finished work.",
+      "emptyTitle": "No completed tasks",
+      "emptyBody": "Finished work appears here, toned down so Today stays clear."
+    }
+  },
+  "topBar": {
+    "searchLabel": "Search tasks",
+    "searchPlaceholder": "Search...",
+    "themeGroupLabel": "Theme",
+    "syncAction": "Sync",
+    "syncing": "Syncing...",
+    "syncSuccess": "Sync complete",
+    "syncError": "Sync failed"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "Auto",
+    "systemDark": "System (using dark)",
+    "systemLight": "System (using light)"
+  },
+  "language": {
+    "label": "Language",
+    "options": {
+      "en": "English",
+      "tr": "Türkçe",
+      "de": "Deutsch",
+      "es": "Español",
+      "it": "Italiano"
+    }
+  },
+  "quickAdd": {
+    "sectionLabel": "Add task",
+    "titleLabel": "Task title",
+    "titlePlaceholder": "Add a task - press Enter",
+    "detailsShow": "Details",
+    "detailsHide": "Hide details",
+    "note": "Note",
+    "notePlaceholder": "Optional context",
+    "due": "Due",
+    "priority": "Priority",
+    "list": "List"
+  },
+  "filters": {
+    "groupLabel": "Filters and sort",
+    "heading": "Filter",
+    "status": "Status",
+    "priority": "Priority",
+    "list": "List",
+    "sort": "Sort",
+    "clear": "Clear",
+    "statusOptions": {
+      "all": "All",
+      "active": "Active",
+      "done": "Done"
+    },
+    "priorityOptions": {
+      "all": "Any"
+    },
+    "categoryOptions": {
+      "all": "All lists"
+    },
+    "sortOptions": {
+      "default": "Default",
+      "due-date-desc": "Newest due date first",
+      "due-date-asc": "Oldest due date first",
+      "priority-desc": "Priority: High to Low",
+      "priority-asc": "Priority: Low to High",
+      "title-asc": "Alphabetical: A to Z",
+      "title-desc": "Alphabetical: Z to A",
+      "created-desc": "Recently created",
+      "created-asc": "Oldest created"
+    }
+  },
+  "common": {
+    "priorities": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "categories": {
+      "personal": "Personal",
+      "work": "Work",
+      "study": "Study"
+    }
+  },
+  "task": {
+    "markActive": "Mark as active",
+    "markComplete": "Mark as complete",
+    "titleLabel": "Title",
+    "noteLabel": "Note",
+    "due": "Due",
+    "priority": "Priority",
+    "list": "List",
+    "save": "Save",
+    "cancel": "Cancel",
+    "priorityAria": "Priority {{priority}}",
+    "noDate": "No date",
+    "confirmDeleteGroup": "Confirm delete",
+    "confirmDeleteText": "Remove?",
+    "confirmYes": "Yes",
+    "confirmNo": "No",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}

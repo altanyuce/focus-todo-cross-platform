@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "Focus Todo"
+  },
+  "brand": {
+    "title": "Focus",
+    "subtitle": "Attività",
+    "footnote": "Solo in locale - le tue attività restano su questo dispositivo."
+  },
+  "sidebar": {
+    "sectionsLabel": "Sezioni"
+  },
+  "sections": {
+    "today": {
+      "label": "Oggi",
+      "navHint": "Scadenze attuali e senza data",
+      "caption": "Ciò che richiede attenzione adesso - anche le attività senza data restano qui.",
+      "emptyTitle": "Qui non c'è ancora nulla",
+      "emptyBody": "Aggiungi un'attività qui sopra. Gli elementi senza data restano in Oggi così puoi annotarli al volo."
+    },
+    "upcoming": {
+      "label": "In arrivo",
+      "navHint": "Pianificate più avanti",
+      "caption": "Lavoro pianificato con una data futura.",
+      "emptyTitle": "Nessuna data in arrivo",
+      "emptyBody": "Imposta una data futura su un'attività per vederla qui."
+    },
+    "completed": {
+      "label": "Completate",
+      "navHint": "Attività concluse",
+      "caption": "Archivio discreto del lavoro completato.",
+      "emptyTitle": "Nessuna attività completata",
+      "emptyBody": "Il lavoro finito appare qui, con meno enfasi, così Oggi resta pulito."
+    }
+  },
+  "topBar": {
+    "searchLabel": "Cerca attività",
+    "searchPlaceholder": "Cerca...",
+    "themeGroupLabel": "Tema",
+    "syncAction": "Sincronizza",
+    "syncing": "Sincronizzazione...",
+    "syncSuccess": "Sincronizzazione completata",
+    "syncError": "Sincronizzazione non riuscita"
+  },
+  "theme": {
+    "light": "Chiaro",
+    "dark": "Scuro",
+    "system": "Auto",
+    "systemDark": "Sistema (usa scuro)",
+    "systemLight": "Sistema (usa chiaro)"
+  },
+  "language": {
+    "label": "Lingua",
+    "options": {
+      "en": "English",
+      "tr": "Türkçe",
+      "de": "Deutsch",
+      "es": "Español",
+      "it": "Italiano"
+    }
+  },
+  "quickAdd": {
+    "sectionLabel": "Aggiungi attività",
+    "titleLabel": "Titolo attività",
+    "titlePlaceholder": "Aggiungi un'attività - premi Invio",
+    "detailsShow": "Dettagli",
+    "detailsHide": "Nascondi dettagli",
+    "note": "Nota",
+    "notePlaceholder": "Contesto facoltativo",
+    "due": "Scadenza",
+    "priority": "Priorità",
+    "list": "Lista"
+  },
+  "filters": {
+    "groupLabel": "Filtri e ordinamento",
+    "heading": "Filtra",
+    "status": "Stato",
+    "priority": "Priorità",
+    "list": "Lista",
+    "sort": "Ordina",
+    "clear": "Cancella",
+    "statusOptions": {
+      "all": "Tutte",
+      "active": "Attive",
+      "done": "Fatte"
+    },
+    "priorityOptions": {
+      "all": "Qualsiasi"
+    },
+    "categoryOptions": {
+      "all": "Tutte le liste"
+    },
+    "sortOptions": {
+      "default": "Predefinito",
+      "due-date-desc": "Scadenza più recente prima",
+      "due-date-asc": "Scadenza più vecchia prima",
+      "priority-desc": "Priorità: da alta a bassa",
+      "priority-asc": "Priorità: da bassa ad alta",
+      "title-asc": "Alfabetico: da A a Z",
+      "title-desc": "Alfabetico: da Z a A",
+      "created-desc": "Create di recente",
+      "created-asc": "Più vecchie"
+    }
+  },
+  "common": {
+    "priorities": {
+      "low": "Bassa",
+      "medium": "Media",
+      "high": "Alta"
+    },
+    "categories": {
+      "personal": "Personale",
+      "work": "Lavoro",
+      "study": "Studio"
+    }
+  },
+  "task": {
+    "markActive": "Segna come attiva",
+    "markComplete": "Segna come completata",
+    "titleLabel": "Titolo",
+    "noteLabel": "Nota",
+    "due": "Scadenza",
+    "priority": "Priorità",
+    "list": "Lista",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "priorityAria": "Priorità {{priority}}",
+    "noDate": "Nessuna data",
+    "confirmDeleteGroup": "Conferma eliminazione",
+    "confirmDeleteText": "Rimuovere?",
+    "confirmYes": "Sì",
+    "confirmNo": "No",
+    "edit": "Modifica",
+    "delete": "Elimina"
+  }
+}

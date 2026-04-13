@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "Focus Todo"
+  },
+  "brand": {
+    "title": "Focus",
+    "subtitle": "Tareas",
+    "footnote": "Solo local - tus tareas se quedan en este dispositivo."
+  },
+  "sidebar": {
+    "sectionsLabel": "Secciones"
+  },
+  "sections": {
+    "today": {
+      "label": "Hoy",
+      "navHint": "Vence ahora y sin fecha",
+      "caption": "Lo que necesita atención ahora - las tareas sin fecha también se quedan aquí.",
+      "emptyTitle": "Todavía no hay nada aquí",
+      "emptyBody": "Agrega una tarea arriba. Los elementos sin fecha se quedan en Hoy para que puedas capturarlos rápido."
+    },
+    "upcoming": {
+      "label": "Próximas",
+      "navHint": "Programadas para después",
+      "caption": "Trabajo programado con una fecha de vencimiento futura.",
+      "emptyTitle": "No hay fechas próximas",
+      "emptyBody": "Asigna una fecha futura a una tarea para verla aquí."
+    },
+    "completed": {
+      "label": "Completadas",
+      "navHint": "Tareas terminadas",
+      "caption": "Archivo tranquilo del trabajo terminado.",
+      "emptyTitle": "No hay tareas completadas",
+      "emptyBody": "El trabajo terminado aparece aquí, con menos peso visual para que Hoy siga despejado."
+    }
+  },
+  "topBar": {
+    "searchLabel": "Buscar tareas",
+    "searchPlaceholder": "Buscar...",
+    "themeGroupLabel": "Tema",
+    "syncAction": "Sincronizar",
+    "syncing": "Sincronizando...",
+    "syncSuccess": "Sincronizacion completada",
+    "syncError": "La sincronizacion fallo"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Auto",
+    "systemDark": "Sistema (usando oscuro)",
+    "systemLight": "Sistema (usando claro)"
+  },
+  "language": {
+    "label": "Idioma",
+    "options": {
+      "en": "English",
+      "tr": "Türkçe",
+      "de": "Deutsch",
+      "es": "Español",
+      "it": "Italiano"
+    }
+  },
+  "quickAdd": {
+    "sectionLabel": "Agregar tarea",
+    "titleLabel": "Título de la tarea",
+    "titlePlaceholder": "Agrega una tarea - pulsa Enter",
+    "detailsShow": "Detalles",
+    "detailsHide": "Ocultar detalles",
+    "note": "Nota",
+    "notePlaceholder": "Contexto opcional",
+    "due": "Vence",
+    "priority": "Prioridad",
+    "list": "Lista"
+  },
+  "filters": {
+    "groupLabel": "Filtros y orden",
+    "heading": "Filtrar",
+    "status": "Estado",
+    "priority": "Prioridad",
+    "list": "Lista",
+    "sort": "Ordenar",
+    "clear": "Limpiar",
+    "statusOptions": {
+      "all": "Todas",
+      "active": "Activas",
+      "done": "Hechas"
+    },
+    "priorityOptions": {
+      "all": "Cualquiera"
+    },
+    "categoryOptions": {
+      "all": "Todas las listas"
+    },
+    "sortOptions": {
+      "default": "Predeterminado",
+      "due-date-desc": "Fecha de vencimiento más reciente primero",
+      "due-date-asc": "Fecha de vencimiento más antigua primero",
+      "priority-desc": "Prioridad: de alta a baja",
+      "priority-asc": "Prioridad: de baja a alta",
+      "title-asc": "Alfabético: de A a Z",
+      "title-desc": "Alfabético: de Z a A",
+      "created-desc": "Creadas recientemente",
+      "created-asc": "Más antiguas"
+    }
+  },
+  "common": {
+    "priorities": {
+      "low": "Baja",
+      "medium": "Media",
+      "high": "Alta"
+    },
+    "categories": {
+      "personal": "Personal",
+      "work": "Trabajo",
+      "study": "Estudio"
+    }
+  },
+  "task": {
+    "markActive": "Marcar como activa",
+    "markComplete": "Marcar como completada",
+    "titleLabel": "Título",
+    "noteLabel": "Nota",
+    "due": "Vence",
+    "priority": "Prioridad",
+    "list": "Lista",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "priorityAria": "Prioridad {{priority}}",
+    "noDate": "Sin fecha",
+    "confirmDeleteGroup": "Confirmar eliminación",
+    "confirmDeleteText": "¿Eliminar?",
+    "confirmYes": "Sí",
+    "confirmNo": "No",
+    "edit": "Editar",
+    "delete": "Eliminar"
+  }
+}
