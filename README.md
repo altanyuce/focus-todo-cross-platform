@@ -108,14 +108,14 @@ docs/
 
 Desktop:
 
-cd focus_todo_computer/focus-todo
+cd "focus_todo_computer/focus-todo"
 npm install
 npm run dev
 
 
 Mobile:
 
-cd focus_todo_mobile
+cd "focus_todo_mobile"
 flutter pub get
 flutter run
 
