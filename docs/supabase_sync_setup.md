@@ -38,15 +38,15 @@ Desktop reads from Vite environment variables:
 Create a local env file in `focus_todo_computer/focus-todo`:
 
 ```env
-VITE_SUPABASE_URL=https://YOUR_PROJECT_ID.supabase.co
+VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
 ```
 
 Example:
 
 ```env
-VITE_SUPABASE_URL=https://abcxyzcompany.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOi...
+VITE_SUPABASE_URL=https://your-project.supabase.co
+VITE_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
 ```
 
 ## Mobile Setup
@@ -59,13 +59,13 @@ Mobile reads from Dart compile-time defines:
 Example run command:
 
 ```powershell
-flutter run --dart-define=SUPABASE_URL=https://YOUR_PROJECT_ID.supabase.co --dart-define=SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
+flutter run --dart-define=SUPABASE_URL=https://your-project.supabase.co --dart-define=SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
 ```
 
 Example:
 
 ```powershell
-flutter run --dart-define=SUPABASE_URL=https://abcxyzcompany.supabase.co --dart-define=SUPABASE_ANON_KEY=eyJhbGciOi...
+flutter run --dart-define=SUPABASE_URL=https://your-project.supabase.co --dart-define=SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
 ```
 
 ## Current Transport Behavior
