@@ -132,14 +132,6 @@ This project is a portfolio-level prototype focused on architecture, state manag
 
 It is not intended for production deployment.
 
----
-
-## Known Limitations
-
-- Sync may fail due to incomplete backend setup
-- No authentication or user isolation
-- No guarantee of data consistency across devices
-- Backend contract is not stable
 
 ---
 
